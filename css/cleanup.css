@@ -3,6 +3,11 @@
   display: none;
 }
 
+
+#wall .slick wicked{
+  display: none;
+}
+
 #wall #tag-2 {
   display: none;
 }
